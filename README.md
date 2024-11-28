@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gurnoor 
-- 🌱 I’m currently learning to develop full stack apps using my ML knowledge.
+- 🌱 I’m currently a master's student learning to develop full stack apps using my ML knowledge.
 - 💞️ I’m looking to collaborate on - MLops, Training AI models and Reinforcement Learning Projects
 - 📫 How to reach me - gurnooraus075@gmail.com
 
